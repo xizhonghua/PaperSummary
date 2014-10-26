@@ -19,3 +19,7 @@ Use only a high speed camera to capture the small vibrations of the objecte's su
 - Maximum recoverable frequency is limited by the frame rate (Shannon's law)
 - Extremely low SNR in low frequncy (<100Hz)
 - Ability to recover high frequency signal is limited
+
+### References
+- [IJCV 00] [A Parametric Texture Model Based on Joint Statistics
+of Complex Wavelet Coefficients](../SIGGRAPH/%5B2014%5DThe_Visual_Microphone.md) 
