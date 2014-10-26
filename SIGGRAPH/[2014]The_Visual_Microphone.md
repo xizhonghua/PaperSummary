@@ -22,5 +22,6 @@ Use only a high speed camera to capture the small vibrations of the objecte's su
 
 ### References
 - [SIGGRAPH 13] [Phase-Based Video Motion Processing](%5B2013%5DPhase-Based_Video_Motion_Processing.md)
+- [SIGGRAPH 12] [Eulerian Video Magnification for Revealing Subtle Changes in the World](%5B2012%5DEulerian_Video_Magnification_for_Revealing_Subtle_Changes_in_the_World.md)
 - [IJCV 00] [A Parametric Texture Model Based on Joint Statistics
 of Complex Wavelet Coefficients](../IJCV/%5B2000%5DA_Parametric_Texture_Model_Based_on_Joint_Statistics%20of%20Complex%20Wavelet_Coefficients.md) 
