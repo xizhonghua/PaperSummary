@@ -22,4 +22,4 @@ Use only a high speed camera to capture the small vibrations of the objecte's su
 
 ### References
 - [IJCV 00] [A Parametric Texture Model Based on Joint Statistics
-of Complex Wavelet Coefficients](../SIGGRAPH/%5B2014%5DThe_Visual_Microphone.md) 
+of Complex Wavelet Coefficients](../IJCV/%5B2000%5DA_Parametric_Texture_Model_Based_on_Joint_Statistics%20of%20Complex%20Wavelet_Coefficients.md) 
