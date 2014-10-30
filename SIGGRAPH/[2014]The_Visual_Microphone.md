@@ -21,7 +21,7 @@ Use only a high speed camera to capture the small vibrations of the objecte's su
 - Ability to recover high frequency signal is limited
 
 ### References
-- [ICCP 13] [Riesz Pyramids for Fast Phase-Based Video Magnification](ICCP/%5B2013%5DRiesz%20Pyramids%20for%20Fast%20Phase-Based%20Video%20Magnification.md)
+- [ICCP 14] [Riesz Pyramids for Fast Phase-Based Video Magnification](ICCP/%5B2014%5DRiesz%20Pyramids%20for%20Fast%20Phase-Based%20Video%20Magnification.md)
 - [SIGGRAPH 13] [Phase-Based Video Motion Processing](%5B2013%5DPhase-Based_Video_Motion_Processing.md)
 - [SIGGRAPH 12] [Eulerian Video Magnification for Revealing Subtle Changes in the World](%5B2012%5DEulerian_Video_Magnification_for_Revealing_Subtle_Changes_in_the_World.md)
 - [IJCV 00] [A Parametric Texture Model Based on Joint Statistics
