@@ -19,9 +19,12 @@ We present a new compact image pyramid representation, the Riesz pyramid, that c
 ```
 
 ### Pros
-- less overcomplete ()
+- less overcomplete (only computed on dominant orientation)
 - implemented in spatial domain
 - uses efficient, compact linear filters
 - real-time capability
 
 ### Cons
+- can't handel points with non-single dominant orientation
+- does not maintain the power of an input signal (may cause minor artifacts)
+- can not handle large motion
