@@ -14,6 +14,20 @@ Next, we compute geometric proxies for each input frame. These allow us to rende
 
 Finally, we generate the novel smoothed, time-lapse video by rendering, stitching, and blending appropriately selected source frames for each output frame. We present a number of results for challenging videos that cannot be processed using traditional techniques.
 
+###Bibtex
+```
+@article{kopf2014first,
+  title={First-person hyper-lapse videos},
+  author={Kopf, Johannes and Cohen, Michael F and Szeliski, Richard},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={33},
+  number={4},
+  pages={78},
+  year={2014},
+  publisher={ACM}
+}
+```
+
 ### Pipelines
  - Scene reconstruction
  - Path planning
