@@ -11,3 +11,6 @@ Our algorithm first reconstructs the 3D input camera path as well as dense, per-
 Next, we compute geometric proxies for each input frame. These allow us to render the frames from the novel viewpoints on the optimized path.	
 
 Finally, we generate the novel smoothed, time-lapse video by rendering, stitching, and blending appropriately selected source frames for each output frame. We present a number of results for challenging videos that cannot be processed using traditional techniques.
+
+### Used techiques
+Struct from motion : [2006 Photo Tourism](2006-Photo-Tourism.md)
