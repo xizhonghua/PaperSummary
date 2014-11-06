@@ -1,5 +1,7 @@
 ##First-person Hyperlapse Videos
 
+Johannes Kopf, Michael F. Cohen and Richard Szeliski
+
 [website](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/) / [pdf](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/paper/hyperlapse.pdf)
 
 ###Abstract
@@ -12,5 +14,11 @@ Next, we compute geometric proxies for each input frame. These allow us to rende
 
 Finally, we generate the novel smoothed, time-lapse video by rendering, stitching, and blending appropriately selected source frames for each output frame. We present a number of results for challenging videos that cannot be processed using traditional techniques.
 
+### Pipelines
+ - Scene reconstruction
+ - Path planning
+ - Image-based rendering
+
 ### Used techiques
-Struct from motion : [2006 Photo Tourism](2006-Photo-Tourism.md)
+ - SfM (Struct from motion) [2006 Photo Tourism](2006-Photo-Tourism.md)
+ - MRF (Markov Random Field)
