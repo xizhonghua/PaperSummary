@@ -27,12 +27,12 @@ surfaces in the scene.
 This paper proposed an interactive user interface for maniupalating the shadows.
 It threats shadow as first-class object like light and model in the scene.
 
-Pros:
-Fast: performance in real time
-Intuitive: directly desgin the shadow
-Shadow cookie is also supported
+#### Pros:
+* Fast: performance in real time
+* Intuitive: directly desgin the shadow
+* Shadow cookie is also supported
 
-Cons:
-I think it can only deal with one model each time.
+#### Cons:
+* I think it can only deal with one model each time.
 
 
