@@ -2,6 +2,8 @@
 
 Authors: Fabio Pellacini, Parag Tole and  Donald P. Greenberg 
 
+[PDF](http://www.graphics.cornell.edu/pubs/2002/PTG02.pdf)
+
 #### Abstract
 Placing shadows is difficult task since shadows depend on the
 relative positions of lights and objects in an unintuitive manner.
